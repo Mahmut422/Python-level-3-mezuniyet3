@@ -1,0 +1,54 @@
+{
+  "Pazartesi": [
+      {
+        "saat": "10:00",
+        "ders": "Matematik",
+        "egitmen": "Ahmet Hoca"
+      },
+      {
+        "saat": "14:00",
+        "ders": "Fizik",
+        "egitmen": "Zeynep Hoca"
+      }
+  ],
+  "Salı": [
+      {
+        "saat": "11:00",
+        "ders": "Kimya",
+        "egitmen": "Mehmet Hoca"
+      }
+  ],
+  "Çarsamba": [
+      {
+        "saat": "12:00",
+        "ders": "Edebiyat",
+        "egitmen": "Emin Hoca"
+      },
+      {
+        "saat": "14:00",
+        "ders": "coğrafya",
+        "egitmen": "Kerem Hoca"
+      }
+  ],
+  "Perşembe": [
+      {
+        "saat": "13:00",
+        "ders": "Biyoloji",
+        "egitmen": "Elif Hoca"
+      },
+      {
+        "saat": "15:00",
+        "ders": "Tarih",
+        "egitmen": "Ali Hoca"
+      }
+  ],
+  "Cuma": [
+      {
+        "saat": "15:00",
+        "ders": "İngilizce",
+        "egitmen": "Sarah Teacher"
+      }
+  ],
+  "Cumartesi": [],
+  "Pazar": []
+}
